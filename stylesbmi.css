@@ -1,0 +1,28 @@
+
+body{
+    background-color:rgba(0,0,0,0.5);
+    margin: 30px;
+    text-align: center;
+}
+input{
+    margin:6px;
+}
+button{
+    color:white;
+    border:2px solid orange;
+    border-radius: 15px;
+    background-color: orange;
+    margin:10px;
+}
+h1{
+    font-family:monospace;
+    color:darkblue;
+}
+suggestions{
+    color:orange;
+}
+ @media screen and (min-width : 298px) and (max-width:300px){
+    span{
+        margin-left: 10px;
+    }
+ }
